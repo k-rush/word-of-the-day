@@ -1,8 +1,26 @@
 body {
   padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: #000;
+  color:#fff;
+
 }
 
 a {
   color: #00B7FF;
 }
+
+h1 {
+	font-family:'Helvetica';
+	text-align:center;
+}
+
+h2 {
+	font-family:'Lucida Console';
+	text-decoration: underline;
+}
+
+p {
+	font-family:'Lucida Console';
+}
+
