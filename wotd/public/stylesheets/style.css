@@ -11,16 +11,30 @@ a {
 }
 
 h1 {
-	font-family:'Helvetica';
+	font-family: 'Open Sans', sans-serif;
 	text-align:center;
+	font-size:5em;
 }
 
 h2 {
-	font-family:'Lucida Console';
-	text-decoration: underline;
+	font-family: 'Source Sans Pro', sans-serif;
+	margin-top:12%;
+	text-align:center;
+	color:green;
+	font-size:3em;
 }
 
 p {
-	font-family:'Lucida Console';
+	font-family: 'Source Sans Pro', sans-serif;
+	text-align:center;
+	color:green;
+	font-size:2em;
+}
+
+.signature {
+	font-size: 1.2em;
+	color: white;
+	margin-top:25%;
+	text-align:center;
 }
 
