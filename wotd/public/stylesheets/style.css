@@ -14,20 +14,21 @@ h1 {
 	font-family: 'Open Sans', sans-serif;
 	text-align:center;
 	font-size:5em;
+	color:#323C98;
 }
 
 h2 {
 	font-family: 'Source Sans Pro', sans-serif;
 	margin-top:12%;
 	text-align:center;
-	color:green;
+	color:#0EA564;
 	font-size:3em;
 }
 
 p {
 	font-family: 'Source Sans Pro', sans-serif;
 	text-align:center;
-	color:green;
+	color:#0EA564;
 	font-size:2em;
 }
 
