@@ -13,7 +13,7 @@ a {
 h1 {
 	font-family: 'Open Sans', sans-serif;
 	text-align:center;
-	font-size:5em;
+	font-size:3em;
 	color:#323C98;
 }
 
@@ -22,14 +22,14 @@ h2 {
 	margin-top:12%;
 	text-align:center;
 	color:#0EA564;
-	font-size:3em;
+	font-size:2em;
 }
 
 p {
 	font-family: 'Source Sans Pro', sans-serif;
 	text-align:center;
 	color:#0EA564;
-	font-size:2em;
+	font-size:1em;
 }
 
 .signature {
